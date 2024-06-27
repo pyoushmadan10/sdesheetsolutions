@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0062-unique-paths) |
+| [2050-count-good-numbers](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2050-count-good-numbers) |
 # Combinatorics
 |  |
 | ------- |
@@ -50,3 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0967-minimum-falling-path-sum) |
+# Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2050-count-good-numbers) |
