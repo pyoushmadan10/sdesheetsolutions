@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0213-house-robber-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0967-minimum-falling-path-sum) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0078-subsets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Queue
 |  |
@@ -64,3 +66,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0078-subsets) |
