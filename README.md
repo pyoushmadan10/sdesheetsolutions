@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0268-missing-number) |
 | [2379-maximum-total-importance-of-roads](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -90,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -111,5 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0268-missing-number) |
 | [0800-letter-case-permutation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0800-letter-case-permutation) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
