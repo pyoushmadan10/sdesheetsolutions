@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0560-subarray-sum-equals-k) |
 | [1325-path-with-maximum-probability](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1325-path-with-maximum-probability) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1325-path-with-maximum-probability) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2132-convert-1d-array-into-2d-array) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
