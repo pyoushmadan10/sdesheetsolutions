@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0268-missing-number) |
 | [0800-letter-case-permutation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0800-letter-case-permutation) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Math
 |  |
 | ------- |
