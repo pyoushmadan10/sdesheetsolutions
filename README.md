@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1325-path-with-maximum-probability) |
+| [1435-xor-queries-of-a-subarray](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0560-subarray-sum-equals-k) |
+| [1435-xor-queries-of-a-subarray](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## String
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0268-missing-number) |
 | [0800-letter-case-permutation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0800-letter-case-permutation) |
+| [1435-xor-queries-of-a-subarray](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Math
