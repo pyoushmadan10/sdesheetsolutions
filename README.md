@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0268-missing-number) |
+| [0539-minimum-time-difference](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0539-minimum-time-difference) |
 | [2379-maximum-total-importance-of-roads](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0268-missing-number) |
+| [0539-minimum-time-difference](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1325-path-with-maximum-probability) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0539-minimum-time-difference) |
 | [0800-letter-case-permutation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0800-letter-case-permutation) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0268-missing-number) |
+| [0539-minimum-time-difference](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0539-minimum-time-difference) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Binary Search
 |  |
