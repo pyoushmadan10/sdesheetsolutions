@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0539-minimum-time-difference) |
+| [1256-rank-transform-of-an-array](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1256-rank-transform-of-an-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0906-walking-robot-simulation) |
+| [1256-rank-transform-of-an-array](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1256-rank-transform-of-an-array](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1786-count-the-number-of-consistent-strings) |
