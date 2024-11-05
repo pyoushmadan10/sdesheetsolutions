@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0670-maximum-swap) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0085-maximal-rectangle) |
 | [0179-largest-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0217-contains-duplicate) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0085-maximal-rectangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
