@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2379-maximum-total-importance-of-roads) |
+| [3189-find-champion-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/3189-find-champion-ii) |
 ## Sorting
 |  |
 | ------- |
