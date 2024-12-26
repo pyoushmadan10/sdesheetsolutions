@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0268-missing-number) |
+| [0494-target-sum](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0800-letter-case-permutation) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0085-maximal-rectangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0494-target-sum](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0494-target-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2164-two-best-non-overlapping-events) |
