@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1524-string-matching-in-an-array](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-string-matching-in-an-array](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1524-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
