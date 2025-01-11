@@ -1,11 +1,13 @@
 class Solution:
     def canConstruct(self, s: str, k: int) -> bool:
-        if k > len(s): return False
-        charCount = [0] * 26
-        for c in s:
-            charCount[ord(c) - ord('a')] += 1
-        oddCount = 0
-        for i in range(26):
-            if charCount[i] % 2 == 1:
-                oddCount += 1
-        return oddCount <= k and k <= len(s)
+        if len(s) == k:
+            return True
+        if len(s) < k:
+            return False
+        odd = 0
+        for char in set(s):
+            if s.count(char) % 2:
+                odd += 1
+        if odd > k:
+            return False
+        return True
