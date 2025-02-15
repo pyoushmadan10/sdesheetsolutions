@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0800-letter-case-permutation) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
