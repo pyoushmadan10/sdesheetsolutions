@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0906-walking-robot-simulation) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0906-walking-robot-simulation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1160-letter-tile-possibilities) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -793,4 +797,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
