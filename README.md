@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1304-longest-happy-string) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0768-partition-labels](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0768-partition-labels) |
 | [0906-walking-robot-simulation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -815,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0768-partition-labels) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1972-rotating-the-box) |
