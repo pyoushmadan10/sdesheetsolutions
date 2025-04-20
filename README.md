@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0787-sliding-puzzle) |
+| [0797-rabbits-in-forest](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0797-rabbits-in-forest) |
 | [0906-walking-robot-simulation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
