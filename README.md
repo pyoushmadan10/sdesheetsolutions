@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
