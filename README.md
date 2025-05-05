@@ -760,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0806-domino-and-tromino-tiling](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1063-best-sightseeing-pair) |
