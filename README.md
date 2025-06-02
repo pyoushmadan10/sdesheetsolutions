@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0045-jump-game-ii) |
+| [0135-candy](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0670-maximum-swap) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0045-jump-game-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0085-maximal-rectangle) |
+| [0135-candy](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0268-missing-number) |
