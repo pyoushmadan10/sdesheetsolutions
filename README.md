@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2434-design-a-number-container-system](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2681-put-marbles-in-bags) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -723,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2411-spiral-matrix-iv) |
+| [2479-meeting-rooms-iii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
