@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0797-rabbits-in-forest) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0812-rotate-string) |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0494-target-sum) |
+| [0678-valid-parenthesis-string](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0868-push-dominoes) |
@@ -1011,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1002-maximum-width-ramp) |
