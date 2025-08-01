@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0045-jump-game-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0217-contains-duplicate) |
@@ -905,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0494-target-sum) |
