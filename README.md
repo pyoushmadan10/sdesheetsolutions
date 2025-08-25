@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0498-diagonal-traverse) |
 | [0906-walking-robot-simulation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
