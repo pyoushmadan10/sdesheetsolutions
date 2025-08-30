@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0045-jump-game-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0085-maximal-rectangle) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0268-missing-number) |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0407-trapping-rain-water-ii) |
