@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0045-jump-game-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0085-maximal-rectangle) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0268-missing-number) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0679-24-game) |
 | [0800-letter-case-permutation](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0800-letter-case-permutation) |
@@ -751,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/0407-trapping-rain-water-ii) |
