@@ -708,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3830-find-closest-person](https://github.com/pyoushmadan10/sdesheetsolutions/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
 | ------- |
